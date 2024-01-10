@@ -19,7 +19,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsendbayar-odkhuu-34a079185)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tsendbayar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsendbayar-odkhuu-34a079185)
 
 ---
 
